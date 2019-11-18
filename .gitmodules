@@ -1,0 +1,3 @@
+[submodule "monopipeline-unit"]
+	path = monopipeline-unit
+	url = https://github.com/vtitov/monopipeline-unit.git
