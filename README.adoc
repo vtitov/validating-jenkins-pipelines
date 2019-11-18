@@ -1,0 +1,15 @@
+= testing jenkins pipelines 
+:toclevels: 3
+
+----
+git clone --recurse-submodules https://github.com/vtitov/validating-jenkins-pipelines.git
+# or 
+git clone --recurse-submodules https://github.com/vtitov/validating-jenkins-pipelines.git 
+cd monopipeline-unit
+git submodule update --init --recursive
+----
+
+:toc:
+
+== TBD
+
