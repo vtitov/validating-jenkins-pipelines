@@ -1,3 +1,6 @@
 [submodule "monopipeline-unit"]
 	path = monopipeline-unit
 	url = https://github.com/vtitov/monopipeline-unit.git
+[submodule "sandbox-plugin"]
+	path = sandbox-plugin
+	url = https://github.com/vtitov/sandbox-plugin.git
